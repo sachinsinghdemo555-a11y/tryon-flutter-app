@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278574843644",
+    "project_id": "jewels-tryon",
+    "storage_bucket": "jewels-tryon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278574843644:android:e23cc13efd5db5f694b979",
+        "android_client_info": {
+          "package_name": "com.example.jewellery_tryon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNZ9fNobl-T9JYG_L83vmnoTLQ22D1VQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
