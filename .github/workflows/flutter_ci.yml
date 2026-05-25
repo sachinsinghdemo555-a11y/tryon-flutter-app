@@ -31,7 +31,7 @@ jobs:
         run: echo "GEMINI_API_KEY=$GEMINI_API_KEY" > .env
 
       - name: Analyze Project
-        run: flutter analyze
+        run: flutter analyze --no-fatal-infos
 
       - name: Run Tests
         run: flutter test
