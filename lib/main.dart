@@ -18,7 +18,7 @@ class JewelleryTryOnApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Jewellery TryOn',
+      title: 'Jewellery TryOn Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
