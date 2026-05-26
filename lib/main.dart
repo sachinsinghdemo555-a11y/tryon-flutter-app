@@ -11,7 +11,7 @@ Future<void> main() async {
   await SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
   runApp(const JewelleryTryOnApp());
 }
-
+// Main application class
 class JewelleryTryOnApp extends StatelessWidget {
   const JewelleryTryOnApp({super.key});
 
